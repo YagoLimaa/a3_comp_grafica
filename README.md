@@ -1,4 +1,4 @@
-Projeto feio para UC Computação Gráfica e Realidade Virtual.
+Projeto feito para UC Computação Gráfica e Realidade Virtual.
 
 Integrantes: César Rafael Goes Vasconcelos,
              Guilherme Curvelo de Jesus Fraga,
